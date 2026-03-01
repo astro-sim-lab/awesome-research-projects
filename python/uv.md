@@ -272,12 +272,6 @@ indent-style = "space"
 source .venv/bin/activate
 ```
 
-その後は、`python`コマンドのみでスクリプトを実行できます。
-
-```bash
-python script.py
-```
-
 **Windows:**
 
 ```powershell
@@ -343,11 +337,11 @@ vscodeを使用している場合は、`ruff`と`Python`拡張機能をインス
         "editor.codeActionsOnSave": {
             "source.fixAll.ruff": "explicit",
             "source.organizeImports.ruff": "explicit"
-        }
+        },
+        "editor.tabSize": 4,
     },
     "python.testing.pytestEnabled": true,
     "python.testing.pytestArgs": ["tests"],
-    "editor.tabSize": 4,
 }
 ```
 
