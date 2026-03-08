@@ -8,9 +8,10 @@
 
 ## カテゴリ
 
-### Git/GitHub
+### Git
 
-- **[計算物理屋のためのGit/GitHub入門](https://github.com/cpss2026-git/cpss2026-git.github.io/tree/main?tab=readme-ov-file)**
+- GitHub
+  - **[計算物理屋のためのGit/GitHub入門](https://github.com/cpss2026-git/cpss2026-git.github.io/tree/main?tab=readme-ov-file)**
 
 ### Python
 
