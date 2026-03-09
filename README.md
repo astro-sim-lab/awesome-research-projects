@@ -8,10 +8,15 @@
 
 ## カテゴリ
 
-### バージョン管理システム
+### VS code + GitHub Copilot Pro (education)
 
-- Git/GitHub
-  - **[計算物理屋のためのGit/GitHub入門](https://github.com/cpss2026-git/cpss2026-git.github.io/tree/main?tab=readme-ov-file)**
+- **[VS code](https://code.visualstudio.com/)**
+- GitHub education
+  - 登録方法: **[解説1](https://qiita.com/melonsode/items/3602ea6441ca82e43c5a)**, **[解説2](https://zenn.dev/kazu_9626/articles/1e8b48491233e8)**
+
+### Git/GitHub
+
+- **[計算物理屋のためのGit/GitHub入門](https://github.com/cpss2026-git/cpss2026-git.github.io/tree/main?tab=readme-ov-file)**
 
 ### Python
 
