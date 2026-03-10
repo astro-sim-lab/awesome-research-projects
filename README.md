@@ -20,6 +20,8 @@
 
 ### Python
 
+- **[ゼロから学ぶPython](https://github.com/kaityo256/python_zero)**
+
 Pythonに関連するツールやライブラリの使い方をまとめています。
 
 - **[uv - 高速なPythonパッケージマネージャー](python/uv.md)**
